@@ -15,8 +15,6 @@ This is a voice-base AI-powered digital assistant that provide entertainment, in
 - wikipedia
 - pyjokes
 
-
-
 # Schema
 
 ### Project
