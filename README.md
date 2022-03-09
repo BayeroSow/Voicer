@@ -22,5 +22,3 @@ This is a voice-base AI-powered digital assistant that provide entertainment, in
 - description: textfield
 - createdAt: timestamp
 - updatedAt: timestamp
-
-tointuos, ttoinousn, ttiunttuibzbuist´, count==
