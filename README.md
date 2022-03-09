@@ -6,7 +6,7 @@ This is a voice-base AI-powered digital assistant that provide entertainment, in
 -  Narrate a kindlebook
 -  Get news update
 -  Have kit read your message
--  Ask question
+-  Ask questions
 
 # Tech Stack
 - Visual Studio Code
