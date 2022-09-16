@@ -1,5 +1,5 @@
-<img src="Voicer/Firstpic.png" width="1000">
-<img src="Voicer/Secondpic.png" width="1000">
+<img src="Voicer/First.png" width="1000">
+<img src="Voicer/Second.png" width="1000">
 
 
 # Virtual Assistant
