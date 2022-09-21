@@ -1,3 +1,8 @@
+<img src="Images/Firstpic.png" width="1000">
+<img src="Images/Secondpic.png" width="1000">
+
+
+
 # Virtual Assistant
 This is a voice-base AI-powered digital assistant that provide entertainment, information, and general assistant to it users with AI(artificial intelligence) capabilities.
 
