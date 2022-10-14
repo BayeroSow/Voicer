@@ -3,6 +3,7 @@
 
 # Virtual Assistant
 This is a voice-base AI-powered digital assistant that provide entertainment, information, and general assistant to it users with AI(artificial intelligence) capabilities.
+This is a voice-base Ai-powerd digital asssistance that provide entertainment, information, and general assistance to it users with AI(artificial intelligence) capabilities.
 
 # Requirements
 -  Play songs
