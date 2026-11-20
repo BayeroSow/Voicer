@@ -28,7 +28,6 @@ def take_command():
         pass
     return command
 
-# This is a comment 
 def run_alexa():
     command = take_command()
     print(command)
