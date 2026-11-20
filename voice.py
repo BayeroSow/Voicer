@@ -27,6 +27,7 @@ def take_command():
     except:
         pass
     return command
+    return command
 
 
 def run_alexa():
