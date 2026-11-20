@@ -7,7 +7,7 @@ listener = sr.Recognizer()
 engine = pyttsx3.init()
 voice = engine.getProperty("voices")
 engine.setProperty("voice", voices[1].id)
-engine.now()
+
 
 
 def talk(text):
